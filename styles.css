@@ -87,7 +87,7 @@ body.dark-theme{
 /*========== Button Dark/Light ==========*/
 .change-theme{
   font-size: 1.25rem;
-  color: var(--title-color);
+  color: white;
   margin-right: var(--mb-1);
   cursor: pointer;
 }
